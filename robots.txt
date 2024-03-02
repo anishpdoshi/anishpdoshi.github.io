@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://anishpdoshi.github.io//sitemap.xml
+Sitemap: https://anishdoshi.com//sitemap.xml
