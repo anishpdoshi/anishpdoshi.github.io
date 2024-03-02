@@ -54,6 +54,6 @@ This doc is inspired by the idea of a [Manager README](https://svnk.github.io/m
 * Learning piano again
 * Boxing classes
 * Hiking
-* Play chess. I’m OTB ~1100 but hoping to 
+* Play chess. I’m OTB ~1100 but hoping to get better
 * Sleep. Sleep is fun.
 
