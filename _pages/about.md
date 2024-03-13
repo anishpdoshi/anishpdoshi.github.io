@@ -28,6 +28,8 @@ This doc is inspired by the idea of a [Manager README](https://svnk.github.io/m
 * I speak English, decent Gujarati and an ever so tiny amount of Spanish (or at least Duolingo thinks so). 
 * I’m vegan, and if you hang out with me long enough, you might become vegan too. 
 
+<!-- This section is true, if you're reading the source code, but i'm hesitant to put it in my about page as is. Feels a bit aggressive to put it here unless asked for. -->
+<!-- 
 ## What you can expect from me
 * I work job hours between 9 am and 5 pm PST. I’m passionate about my work, but if it’s after 5 pm, we should be brainstorming ideas or hacking on something cool and meaningful.
 * I can get carried away in the hacking/ideating phase if you give me a cool problem
@@ -45,30 +47,32 @@ This doc is inspired by the idea of a [Manager README](https://svnk.github.io/m
 * I work best in small, well understood codebases, and I encourage teams focusing on difficult problems to fully own their code E2E. Fast iteration, local demos, and “building 0-1 projects” are the best.
 * Communication can be fun. Late night convos with a friend debugging some dumb problem or brainstorming ideas are always going to feel more 
 * Structure comes at a cost. There’s always a tradeoff to introducing a new process, new document to fill out, new beurarcracy in place. Please be mindful of that.
-* I am deeply motivated by my interests in technology as well as recognition from people who share similar mindset. I am generally at my best when I am doing work I believe in and feel passionate about.
+* I am deeply motivated by my interests in technology as well as recognition from people who share similar mindset. I am generally at my best when I am doing work I believe in and feel passionate about. -->
 
 ## What I am currently interested in
 * Program synthesis, recommendation
 * Language modeling & NLP
-* Blending cool ideas in ML with beautiful products for humans.
+* Turning ideas in machine learning into human-compatible products
 * “Robust” AI in any form - making the outputs of LLMs more secure, controllable, and verifiable without compromising on their quality.
 
 ## Some work I am proud of
-* I’ve jumped around a bit in my career so far, so work artifacts have varied and are sometimes behind NDAs :) But I am proud of the following things I’ve written. These aren’t always. But they reflect those late nights grinding out in OverLeaf, hacking on something with a few friends, or. You can get similar insights from my CV - but pdf/normative language constraints make it .
-* Pattern profiler - a visual 
-* Genetic algorithm for pokemon - the code might need to be updated a bit
-* 4 patents
+* Here is a sample of things I have written that I take pride in. They reflect late nights grinding out research projects with grad school classmates, projects I built out for company hackathons that turned into full features, or just solo projects I thought were cool.
+
+* This is a small selection as work artifacts are varied and mostly behind NDAs :) You can get similar insights from my [CV](/cv).
+
+* Pattern profiler - a interactive visual representation of the strings in a column.
 * A controllable syntax guided synthesis algorithm [with Pei-Wei Chen]
 * SQL synthesis algorithm
 * A neural autoencoder
 * PBE [thank you @rishabh singh]
+* Patents work
 * This paper I was a coauthor on with my sister @anjali. She’s a 
 * This Pong app I wrote in High School for AP CS. Look at the dancing graphics! Also, vector movements are surprisingly tricky - here’s my senior year report on the subject.
 
 ## What I do for fun
-* Learning piano again
-* Boxing classes
+* Learning piano again, some classical songs
+* Boxing
 * Hiking
-* Play chess. I’m OTB ~1100 but hoping to get better
+* Play chess online
 * Sleep. Sleep is fun.
 
