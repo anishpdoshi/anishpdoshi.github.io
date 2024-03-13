@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-This doc is inspired by the idea of a [Manager README](https://svnk.github.io/manager-READMEs/). Although I am not a manager, I thought this would be a helpful manual for people to know me a bit more and make clear on what you could expect from me, especially when we work across teams.
+<!-- This doc is inspired by the idea of a [Manager README](https://svnk.github.io/manager-READMEs/). Although I am not a manager, I thought this would be a helpful manual for people to know me a bit more and make clear on what you could expect from me, especially when we work across teams. -->
 
 ## Who I am
 * My name is pronounced `An-eesh` but I can recognize my name pretty easily no matter what variation of it is spoken. 
