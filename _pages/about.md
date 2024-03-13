@@ -60,19 +60,22 @@ This doc is inspired by the idea of a [Manager README](https://svnk.github.io/m
 
 * This is a small selection as work artifacts are varied and mostly behind NDAs :) You can get similar insights from my [CV](/cv).
 
-* Pattern profiler - a interactive visual representation of the strings in a column.
-* A controllable syntax guided synthesis algorithm [with Pei-Wei Chen]
-* SQL synthesis algorithm
-* A neural autoencoder
-* PBE [thank you @rishabh singh]
-* Patents work
-* This paper I was a coauthor on with my sister @anjali. She’s a 
-* This Pong app I wrote in High School for AP CS. Look at the dancing graphics! Also, vector movements are surprisingly tricky - here’s my senior year report on the subject.
+* [The transform-by-example feature at Trifacta (now Alteryx), which was inspired by BlinkFill](https://www.alteryx.com/blog/transform-by-example-your-data-cleaning-wish-is-our-command)
+
+* [An autoencoder-based collaborative recommendation system for data transformation programs](https://www.alteryx.com/blog/collaborative-suggestions-community-driven-data-preparation)
+
+* [An algorithm for using decision trees and symbolic regression to solve syntax guided synthesis problems with black-box oracles](/assets/pdf/smto_representation_learning.pdf.pdf)
+
+* [Using a modified GAN to directly output mel-spectrograms that both visually and statistically fool CNN based speaker detection models](https://arxiv.org/abs/1801.02384)
+
+* [An end-to-end SQL synthesis platform blending prompt engineering, program ranking, and formal query postprocessing](https://docs.google.com/presentation/d/1hsdn5r4pA0tpqxLwnJ2RkVSHPVcMSkw1zTwnO_VZi_U/edit?usp=sharing)
+
+* This [paper](https://www.biorxiv.org/content/10.1101/2022.01.20.477106v1) I was a coauthor on with my sister, [Dr. Anjali Doshi](https://twitter.com/AnjaliDoshi16)
 
 ## What I do for fun
 * Learning piano again, some classical songs
 * Boxing
 * Hiking
 * Play chess online
-* Sleep. Sleep is fun.
+* Sleep
 
