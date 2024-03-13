@@ -64,7 +64,7 @@ This doc is inspired by the idea of a [Manager README](https://svnk.github.io/m
 
 * [An autoencoder-based collaborative recommendation system for data transformation programs](https://www.alteryx.com/blog/collaborative-suggestions-community-driven-data-preparation)
 
-* [An algorithm for using decision trees and symbolic regression to solve syntax guided synthesis problems with black-box oracles](/assets/pdf/smto_representation_learning.pdf.pdf)
+* [An algorithm for using decision trees and symbolic regression to solve syntax guided synthesis problems with black-box oracles](/assets/pdf/smto_representation_learning.pdf)
 
 * [Using a modified GAN to directly output mel-spectrograms that both visually and statistically fool CNN based speaker detection models](https://arxiv.org/abs/1801.02384)
 
