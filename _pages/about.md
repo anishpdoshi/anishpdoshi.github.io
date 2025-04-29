@@ -68,7 +68,7 @@ social: false # includes social icons at the bottom of the page
 
 * [Using a modified GAN to directly output mel-spectrograms that both visually and statistically fool CNN based speaker detection models](https://arxiv.org/abs/1801.02384)
 
-* [An end-to-end SQL synthesis platform blending prompt engineering, program ranking, and formal query postprocessing](https://docs.google.com/presentation/d/1hsdn5r4pA0tpqxLwnJ2RkVSHPVcMSkw1zTwnO_VZi_U/edit?usp=sharing)
+* [An end-to-end SQL synthesis platform blending prompt engineering, program ranking, and formal query postprocessing](https://neural-program-synthesis.github.io)
 
 * This [paper](https://www.biorxiv.org/content/10.1101/2022.01.20.477106v1) I was a coauthor on with my sister, [Dr. Anjali Doshi](https://twitter.com/AnjaliDoshi16)
 
