@@ -32,14 +32,14 @@ There were cows.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="assets/img/mission-peak/cows.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+        {% include video.liquid path="assets/img/mission-peak/cow.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
     </div>
 </div>
 <div class="caption">
     Cow
 </div>
 
-And frogs, that I couldn't hear.
+And frogs, that I could only hear.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
