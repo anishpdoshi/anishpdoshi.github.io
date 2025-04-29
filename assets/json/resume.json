@@ -23,14 +23,7 @@
       "studyType": "MEng",
       "startDate": "2021-08",
       "endDate": "2022-05",
-      "courses": [
-        "Program Synthesis",
-        "NLP",
-        "Formal Methods",
-        "Convex Optimization",
-        "Video ML",
-        "Human-Centered Programming"
-      ]
+      "courses": ["Program Synthesis", "NLP", "Formal Methods", "Convex Optimization", "Video ML", "Human-Centered Programming"]
     },
     {
       "institution": "UC Berkeley",
@@ -38,14 +31,7 @@
       "studyType": "B.S.",
       "startDate": "2013-08",
       "endDate": "2017-05",
-      "courses": [
-        "Machine Learning",
-        "Algorithms",
-        "Compilers",
-        "Deep Learning",
-        "Operating Systems",
-        "Probability"
-      ]
+      "courses": ["Machine Learning", "Algorithms", "Compilers", "Deep Learning", "Operating Systems", "Probability"]
     }
   ],
   "work": [
@@ -94,7 +80,33 @@
   "skills": [
     {
       "name": "Machine Learning",
-      "keywords": ["Full Stack Engineering", "Data Visualization", "Python", "JS", "Java", "Scala", "Swift", "C++", "Unix", "Git", "Docker", "Jupyter", "Jenkins CI", "AWS", "VSCode", "PyTorch", "Tensorflow", "sklearn", "NumPy", "pandas", "matplotlib", "seaborn", "PostgreSQL", "SQLite3", "Spark"]
+      "keywords": [
+        "Full Stack Engineering",
+        "Data Visualization",
+        "Python",
+        "JS",
+        "Java",
+        "Scala",
+        "Swift",
+        "C++",
+        "Unix",
+        "Git",
+        "Docker",
+        "Jupyter",
+        "Jenkins CI",
+        "AWS",
+        "VSCode",
+        "PyTorch",
+        "Tensorflow",
+        "sklearn",
+        "NumPy",
+        "pandas",
+        "matplotlib",
+        "seaborn",
+        "PostgreSQL",
+        "SQLite3",
+        "Spark"
+      ]
     }
   ],
   "volunteer": [
@@ -136,20 +148,14 @@
     {
       "name": "Part-of-Speech Weighted Language Modeling",
       "description": "Exploratory project on improving language models with POS tags.",
-      "highlights": [
-        "Implemented with PyTorch",
-        "Included part-of-speech tag model"
-      ],
+      "highlights": ["Implemented with PyTorch", "Included part-of-speech tag model"],
       "keywords": ["LSTM", "POS tag", "PyTorch"],
       "url": "https://github.com/anishpdoshi/pos-weighted-text-generation"
     },
     {
       "name": "RL Based Circle The Cat Solver",
       "description": "Used deep Q-Learning to solve a discrete game called circle the cat.",
-      "highlights": [
-        "Implemented in React.js",
-        "Used REINFORCE.js for model analysis"
-      ],
+      "highlights": ["Implemented in React.js", "Used REINFORCE.js for model analysis"],
       "keywords": ["Deep Q-Learning", "React.js", "REINFORCE.js"],
       "url": "https://github.com/anishpdoshi/circle_the_cat_solver"
     }

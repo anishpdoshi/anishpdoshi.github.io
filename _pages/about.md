@@ -22,14 +22,15 @@ social: false # includes social icons at the bottom of the page
 <!-- This doc is inspired by the idea of a [Manager README](https://svnk.github.io/manager-READMEs/). Although I am not a manager, I thought this would be a helpful manual for people to know me a bit more and make clear on what you could expect from me, especially when we work across teams. -->
 
 ## Who I am
-* My name is pronounced `An-eesh` but I can recognize my name pretty easily no matter what variation of it is spoken. 
-* I’m currently based in SF. I originally came to the Bay Area from Illinois around 2013 to attend school at Berkeley. Since then, I’ve basically lived in every major “tech” area in the Bay - Berkeley, SF, Cupertino, Sunnyvale. I also visit NYC pretty often to see my sister, grandma, and some of my closest friends.
-* I’m Indian American - I grew up in Barrington, Illinois, but my Mom and Dad are both from Gujarat, a state in northwest India.
-* I speak English, decent Gujarati and an ever so tiny amount of Spanish (or at least Duolingo thinks so). 
-* I’m vegan, and if you hang out with me long enough, you might become vegan too. 
+
+- My name is pronounced `An-eesh` but I can recognize my name pretty easily no matter what variation of it is spoken.
+- I’m currently based in SF. I originally came to the Bay Area from Illinois around 2013 to attend school at Berkeley. Since then, I’ve basically lived in every major “tech” area in the Bay - Berkeley, SF, Cupertino, Sunnyvale. I also visit NYC pretty often to see my sister, grandma, and some of my closest friends.
+- I’m Indian American - I grew up in Barrington, Illinois, but my Mom and Dad are both from Gujarat, a state in northwest India.
+- I speak English, decent Gujarati and an ever so tiny amount of Spanish (or at least Duolingo thinks so).
+- I’m vegan, and if you hang out with me long enough, you might become vegan too.
 
 <!-- This section is true, if you're reading the source code, but i'm hesitant to put it in my about page as is. Feels a bit aggressive to put it here unless asked for. -->
-<!-- 
+<!--
 ## What you can expect from me
 * I work job hours between 9 am and 5 pm PST. I’m passionate about my work, but if it’s after 5 pm, we should be brainstorming ideas or hacking on something cool and meaningful.
 * I can get carried away in the hacking/ideating phase if you give me a cool problem
@@ -50,32 +51,34 @@ social: false # includes social icons at the bottom of the page
 * I am deeply motivated by my interests in technology as well as recognition from people who share similar mindset. I am generally at my best when I am doing work I believe in and feel passionate about. -->
 
 ## What I am currently interested in
-* Program synthesis, recommendation
-* Language modeling & NLP
-* Turning ideas in machine learning into human-compatible products
-* “Robust” AI in any form - making the outputs of LLMs more secure, controllable, and verifiable without compromising on their quality.
+
+- Program synthesis, recommendation
+- Language modeling & NLP
+- Turning ideas in machine learning into human-compatible products
+- “Robust” AI in any form - making the outputs of LLMs more secure, controllable, and verifiable without compromising on their quality.
 
 ## Some work I am proud of
-* Here is a sample of things I have written that I take pride in. They reflect late nights grinding out research projects with grad school classmates, projects I built out for company hackathons that turned into full features, or just solo projects I thought were cool.
 
-* This is a small selection as work artifacts are varied and mostly behind NDAs :) You can get similar insights from my [CV](/cv).
+- Here is a sample of things I have written that I take pride in. They reflect late nights grinding out research projects with grad school classmates, projects I built out for company hackathons that turned into full features, or just solo projects I thought were cool.
 
-* [The transform-by-example feature at Trifacta (now Alteryx), which was inspired by BlinkFill](https://www.alteryx.com/blog/transform-by-example-your-data-cleaning-wish-is-our-command)
+- This is a small selection as work artifacts are varied and mostly behind NDAs :) You can get similar insights from my [CV](/cv).
 
-* [An autoencoder-based collaborative recommendation system for data transformation programs](https://www.alteryx.com/blog/collaborative-suggestions-community-driven-data-preparation)
+- [The transform-by-example feature at Trifacta (now Alteryx), which was inspired by BlinkFill](https://www.alteryx.com/blog/transform-by-example-your-data-cleaning-wish-is-our-command)
 
-* [An algorithm for using decision trees and symbolic regression to solve syntax guided synthesis problems with black-box oracles](/assets/pdf/smto_representation_learning.pdf)
+- [An autoencoder-based collaborative recommendation system for data transformation programs](https://www.alteryx.com/blog/collaborative-suggestions-community-driven-data-preparation)
 
-* [Using a modified GAN to directly output mel-spectrograms that both visually and statistically fool CNN based speaker detection models](https://arxiv.org/abs/1801.02384)
+- [An algorithm for using decision trees and symbolic regression to solve syntax guided synthesis problems with black-box oracles](/assets/pdf/smto_representation_learning.pdf)
 
-* [An end-to-end SQL synthesis platform blending prompt engineering, program ranking, and formal query postprocessing](https://neural-program-synthesis.github.io)
+- [Using a modified GAN to directly output mel-spectrograms that both visually and statistically fool CNN based speaker detection models](https://arxiv.org/abs/1801.02384)
 
-* This [paper](https://www.biorxiv.org/content/10.1101/2022.01.20.477106v1) I was a coauthor on with my sister, [Dr. Anjali Doshi](https://twitter.com/AnjaliDoshi16)
+- [An end-to-end SQL synthesis platform blending prompt engineering, program ranking, and formal query postprocessing](https://neural-program-synthesis.github.io)
+
+- This [paper](https://www.biorxiv.org/content/10.1101/2022.01.20.477106v1) I was a coauthor on with my sister, [Dr. Anjali Doshi](https://twitter.com/AnjaliDoshi16)
 
 ## What I do for fun
-* Learning piano again, some classical songs
-* Boxing
-* Hiking
-* Play chess online
-* Sleep
 
+- Learning piano again, some classical songs
+- Boxing
+- Hiking
+- Play chess online
+- Sleep

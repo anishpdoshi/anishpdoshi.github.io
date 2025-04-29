@@ -73,6 +73,3 @@ Sunset on the way down was nice.
 </div>
 
 Thats it. Thats the post.
-
-
-
